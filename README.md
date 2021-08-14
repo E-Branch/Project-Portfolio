@@ -1,3 +1,3 @@
 # Project-Portfolio
 
-miscellaneous example projects in various coding languages
+Example projects in various coding languages
