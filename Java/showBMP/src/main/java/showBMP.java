@@ -47,10 +47,7 @@ public class showBMP extends JPanel {
                 Path filePath = selectedFile.toPath();
 
                 // intended to check the mimetype of the file
-                // wow probeContentType seems not very good, at least on my computer,
-                // a imposer (such as a pdf) fools it completely
-                // online mime type checkers can figure out the correct mimetype, so it should
-                // be possible
+                // however  a imposter (such as a pdf) can fool it
                 String mimeType = "";
                 try {
 
